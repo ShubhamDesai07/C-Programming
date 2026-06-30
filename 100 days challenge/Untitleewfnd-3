@@ -1,0 +1,22 @@
+name = "Anish"
+print (name)
+age = 21
+print(age)
+student = True
+print(student)
+#1name = "anish" \\not allowed
+#stu name = "anish " not allowed
+
+
+name = "anish"
+city = "kolhapur"
+country = " india"
+
+print(name,city,country)
+
+
+
+course = "python"
+duration = 30
+goal = "developer"
+print(f"I am learing {course} for {duration} days becoming {goal}")
