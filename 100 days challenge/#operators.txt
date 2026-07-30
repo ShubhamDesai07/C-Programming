@@ -1,0 +1,11 @@
+#operators
+
++ - * / %   #arithmatic 
+= += -= *= %= #assignement
+< <= > >= == != # comparison / relational 
+AND OR NOT  #logical operators
+& ! << >> ~ ^  bitwise
+
+
+
+ 
