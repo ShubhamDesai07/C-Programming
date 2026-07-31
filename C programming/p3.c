@@ -8,6 +8,7 @@ int main ()
     printf ("product = %f\n",x*y);
     printf ("quotient = %f\n",x/y);
     printf ("quotient = %.3f\n",x/y);
+    
     return 0;
 
 }
