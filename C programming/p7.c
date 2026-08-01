@@ -1,4 +1,5 @@
 // comma as separator and operator
+//problem 1
 
 
 #include<stdio.h>
