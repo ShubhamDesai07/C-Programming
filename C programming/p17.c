@@ -11,7 +11,7 @@ void main ()
        {
         printf("%d is greater ",num1);
        }   
-    else
+    elsep
         {
         printf("%d is greater ",num2);
         }
