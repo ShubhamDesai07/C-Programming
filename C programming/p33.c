@@ -12,7 +12,7 @@ int main() {
     else
         second = c;
 
-    printf("Second largest = %d", second);
+    printf("Second largest is = %d", second);
 
     return 0;
 }
